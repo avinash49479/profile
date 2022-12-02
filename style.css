@@ -12,7 +12,11 @@
 
 a {
   text-decoration: none;
-  margin: 0 12px;
+  margin: 0 11px;
+}
+a:hover{
+  color: #d17182;
+
 }
 
 .main {
