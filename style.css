@@ -6,7 +6,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   margin-top: 850px;
-  margin-left: 800px;
+  margin-left: 650px;
   color: #edd1c9;
   line-height: 0.6cm;
 }
@@ -15,7 +15,7 @@ a {
   text-decoration: none;
   margin: 0 4px;
   color:#edd1c9;
-  font-size: 30px;
+  font-size: 25px;
 }
 a:hover{
   color: #d17182;
@@ -55,18 +55,6 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #c7738b;
-}
-
-a a:after {
-  content: "";
-  position: absolute;
-  left: 0;
-  width: 0;
-  height: 3px;
-  background: #d17182;
-  transition: .3s;
-  bottom: 0;
   color: #c7738b;
 }
 
