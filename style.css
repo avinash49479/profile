@@ -6,14 +6,14 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   margin-top: 850px;
-  margin-left: 650px;
+  margin-left: 700px;
   color: #edd1c9;
   line-height: 0.6cm;
 }
 
 a {
   text-decoration: none;
-  margin: 0 4px;
+  margin: 0 6px;
   color:#edd1c9;
   font-size: 25px;
 }
