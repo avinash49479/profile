@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
-* {
+.container {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -43,7 +43,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #d17182;
+  color: #c7738b;
 }
 
 nav ul li a:after {
@@ -55,6 +55,7 @@ nav ul li a:after {
   background: #d17182;
   transition: .3s;
   bottom: 0;
+  color: #c7738b;
 }
 
 nav ul li a:hover:after {
@@ -100,17 +101,20 @@ nav ul li a:hover:after {
 .content h2 span {
   color: #fd4766;
 }
+.card{
+
+}
 
 .content p {
   width: 55%;
-  color: #1616e8;
+  color: #edd1c9;
   text-transform:lowercase;
   margin-top: 25px;
   margin-bottom: 30px;
 }
 
 .btn {
-  color: #fff;
+  color: #432424;
   font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -120,13 +124,14 @@ nav ul li a:hover:after {
   font-weight: 500;
   transition: all .4s ease-in-out;
   background-size: 150% 100%;
-  background: #fd4766;
-  border: 2px solid #fd4766;
+  background: #be8553;
+  border: 2px solid #be8553;
+  margin: 0 250px;
 }
 
 .btn:hover {
   background: transparent;
-  border-color: #fd4766;
-  color: #fd4766;
+  border-color: #c7738b;
+  color: #c7738b;
 }
 
