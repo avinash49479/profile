@@ -9,6 +9,7 @@
 
 a {
   text-decoration: none;
+  margin: 0 20px;
 }
 
 .main {
@@ -65,6 +66,7 @@ nav ul li a:hover:after {
   position: absolute;
   top: 35%;
   left: 8%;
+  font-family: 'Poppins', sans-serif;
 }
 
 .content .title {
@@ -101,10 +103,6 @@ nav ul li a:hover:after {
 .content h2 span {
   color: #fd4766;
 }
-.card{
-
-}
-
 .content p {
   width: 55%;
   color: #edd1c9;
@@ -126,7 +124,7 @@ nav ul li a:hover:after {
   background-size: 150% 100%;
   background: #be8553;
   border: 2px solid #be8553;
-  margin: 0 250px;
+  margin: 0 200px;
 }
 
 .btn:hover {
