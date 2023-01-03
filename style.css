@@ -120,7 +120,6 @@ nav ul li a:hover:after {
 .content p {
   width: 55%;
   color: #edd1c9;
-  text-transform: lowercase;
   margin-top: 25px;
   margin-bottom: 30px;
 }
